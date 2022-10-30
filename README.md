@@ -1,7 +1,7 @@
 # qhhue-api
 API cung cấp thông tin, dữ liệu của trường THPT Chuyên Quốc Học Huế!
 
-![https://i.imgur.com/VIuNBcd.png](https://www.facebook.com/DoantruongQuocHoc)
+[![qhhue](https://i.imgur.com/VIuNBcd.png)](https://www.facebook.com/DoantruongQuocHoc)
 
 ## Cách setup API chạy local
 ### Yêu cầu: node + mongodb + express
